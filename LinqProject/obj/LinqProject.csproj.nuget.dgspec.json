@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\askin.kesik\\Desktop\\c#\\csharpintro\\CsharpIntro\\LinqProject\\LinqProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\askin.kesik\\Desktop\\c#\\csharpintro\\CsharpIntro\\LinqProject\\LinqProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\askin.kesik\\Desktop\\c#\\csharpintro\\CsharpIntro\\LinqProject\\LinqProject.csproj",
+        "projectName": "LinqProject",
+        "projectPath": "C:\\Users\\askin.kesik\\Desktop\\c#\\csharpintro\\CsharpIntro\\LinqProject\\LinqProject.csproj",
+        "packagesPath": "C:\\Users\\askin.kesik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\askin.kesik\\Desktop\\c#\\csharpintro\\CsharpIntro\\LinqProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\askin.kesik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\askin.kesik\\Desktop\\c#\\csharpintro\\CsharpIntro\\Project4.Entities\\Project4.Entities.csproj": {
+                "projectPath": "C:\\Users\\askin.kesik\\Desktop\\c#\\csharpintro\\CsharpIntro\\Project4.Entities\\Project4.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\askin.kesik\\Desktop\\c#\\csharpintro\\CsharpIntro\\Project4.Entities\\Project4.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\askin.kesik\\Desktop\\c#\\csharpintro\\CsharpIntro\\Project4.Entities\\Project4.Entities.csproj",
+        "projectName": "Project4.Entities",
+        "projectPath": "C:\\Users\\askin.kesik\\Desktop\\c#\\csharpintro\\CsharpIntro\\Project4.Entities\\Project4.Entities.csproj",
+        "packagesPath": "C:\\Users\\askin.kesik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\askin.kesik\\Desktop\\c#\\csharpintro\\CsharpIntro\\Project4.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\askin.kesik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

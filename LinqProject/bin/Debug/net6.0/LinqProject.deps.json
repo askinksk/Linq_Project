@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LinqProject/1.0.0": {
+        "dependencies": {
+          "Project4.Entities": "1.0.0"
+        },
+        "runtime": {
+          "LinqProject.dll": {}
+        }
+      },
+      "Project4.Entities/1.0.0": {
+        "runtime": {
+          "Project4.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinqProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project4.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
